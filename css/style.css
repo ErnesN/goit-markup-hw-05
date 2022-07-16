@@ -83,7 +83,7 @@ header {
     border-radius: 2px;
     background-color: var(--accent-color);
 }
-
+.nav-link .link.current,
 .site-nav .link:hover,
 .site-nav .link:focus {
     color: var(--accent-color);
